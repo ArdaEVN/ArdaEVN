@@ -1,7 +1,5 @@
 # Arda Evinc
 
-![Arda's Banner](https://files.oaiusercontent.com/file-yg71HvPQ9NNy745lg7iFy8mH?se=2024-03-22T15%3A42%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D79127bad-babf-436f-9f99-f953d1fe4b06.webp&sig=8g2%2B/DxYUVKiZQnkHH/8uHg/McTxvxiCUK4K6R4jSfI%3D)
-
 ## About Me 🌟
 
 Hi there! I'm Arda, a passionate Computer Engineering student from Istanbul, Turkey, with a knack for blending AI and DevOps to create impactful tech solutions. My journey through software development, AI, and system administration has been nothing short of an adventure, and I'm on a mission to make a mark in the tech world!
